@@ -88,7 +88,7 @@ Implementação de uma aplicação web simples
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/curso-golang.git
+git clone git@github.com:rodrigosotto/course-golang.git
 
 Acesse a pasta do curso:
 
