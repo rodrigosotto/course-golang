@@ -104,5 +104,5 @@ Sinta-se à vontade para abrir Issues e enviar Pull Requests para aprimorar este
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para detalhes.
 
-Autor: Seu Nome📧 Contato: seuemail@example.com🐙 GitHub: github.com/seuusuario
+Autor: Jefferson R. SOtto 📧 Contato: jeffersontads@hotmail.com 🐙 GitHub: github.com/rodrigosotto
 
